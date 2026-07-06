@@ -1,0 +1,8 @@
+# robots.txt for Good Shepherd Academy
+User-agent: *
+Allow: /
+Disallow: /images/
+Disallow: /css/
+Disallow: /js/
+Sitemap: https://educational-website-1978.netlify.app/sitemap.xml
+Crawl-delay: 5
